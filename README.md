@@ -15,4 +15,23 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 
 •	Buzzer: A buzzer is an electronic device that produces an audible sound when an electric current passes through it.
 
+# Component required with Bill of Material:
+
+| Item              | Quantity    | Description                          |    links of products        | 
+| :---:             | :---:       | :---:                                | :---:                       |
+| Arduino uno       | 1           | Microcontroller board                |  https://amzn.in/d/06Ng27mP |
+| Ultrasonic Sensor | 1           | Standard sensor (HC-SR04)            | https://amzn.in/d/09fDYpCs  |
+| Buzzer            | 1           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
+| Battery           | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
+| Jumper Wire       | 1 set       | --                                   | https://amzn.in/d/0iPO9ODt  |
+| Vibration Motor   | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
+
+
+# Table for Pin Connections:
+
+| Component         | Arduino UNO | Description                          |    
+| :---:             | :---:       | :---:                                |
+
+
+
 
