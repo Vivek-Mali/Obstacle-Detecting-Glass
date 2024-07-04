@@ -30,6 +30,9 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 # Block Diagram:
 ![Block Diagram](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/9341d126-9d35-4eab-b669-12c884ecc6c8)
 
+# Flowchart:
+![Flowchart](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/f51e248c-4cb0-439c-9e5a-f0a537ed3e39)
+
 # Demo Video:
 https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/3723c474-9262-4238-8649-e6c4af43693e
 
