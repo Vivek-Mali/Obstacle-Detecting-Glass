@@ -30,7 +30,8 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 # Table for Pin Connections:
 
 | Component         | Arduino UNO | Description                          |    
-| :---:             | :---:       | :---:                                |
+| :---:             | :---:       | :---:                     ![wallpaper](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/b3e03377-fd65-49aa-8cf6-3f7cdb22fd5b)
+           |
 
 
 
