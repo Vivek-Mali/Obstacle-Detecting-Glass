@@ -26,8 +26,13 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 | Jumper Wire       | 1 set       | --                                   | https://amzn.in/d/0iPO9ODt  |
 | Vibration Motor   | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
 
-# Table for Pin Connection                
+# Table for Pin Connection:               
+| Components                        |                           |                                      |                             
+| :---:                             | :---:                     | :---:                                |
+| Arduino uno                       | Pin                       |                                      | 
 
+
+# Pin Daigram:
 
 # Block Diagram:
 ![Block Diagram](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/64b8266d-1720-4faf-bd6b-385e265cc2b3)
