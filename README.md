@@ -24,7 +24,7 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 | Vibration Motor   | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
 | Buzzer            | 1           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
 | Battery           | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
-| Jumper Wire       | 1 set       | --                                   | https://amzn.in/d/0iPO9ODt  |
+| Jumper Wire       | few         | --                                   | https://amzn.in/d/0iPO9ODt  |
 
 # Table for Pin Connection:               
 | Components                        | Component Pin             | Arduino uno Pin                      |                             
