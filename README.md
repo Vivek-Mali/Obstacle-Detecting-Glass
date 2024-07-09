@@ -21,10 +21,10 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 | :---:             | :---:       | :---:                                | :---:                       |
 | Arduino uno       | 1           | Microcontroller board                |  https://amzn.in/d/06Ng27mP |
 | Ultrasonic Sensor | 1           | Standard sensor (HC-SR04)            | https://amzn.in/d/09fDYpCs  |
+| Vibration Motor   | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
 | Buzzer            | 1           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
 | Battery           | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
 | Jumper Wire       | 1 set       | --                                   | https://amzn.in/d/0iPO9ODt  |
-| Vibration Motor   | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
 
 # Table for Pin Connection:               
 | Components                        | Component Pin             | Arduino uno Pin                      |                             
