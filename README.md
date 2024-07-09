@@ -38,14 +38,13 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 | Vibration Motor                   | Positive(+)               | D12(via transistor)                  | 
 |                                   | Negative(-)               | GND                                  | 
 
-
-# Pin Daigram:
-
 # Block Diagram:
 ![Block Diagram](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/64b8266d-1720-4faf-bd6b-385e265cc2b3)
 
 # Flowchart:
 ![Flowchart](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/f51e248c-4cb0-439c-9e5a-f0a537ed3e39)
+
+# Pin Daigram:
 
 # Demo Video:
 https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/3723c474-9262-4238-8649-e6c4af43693e
