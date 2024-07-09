@@ -27,9 +27,16 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 | Vibration Motor   | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
 
 # Table for Pin Connection:               
-| Components                        |                           |                                      |                             
+| Components                        | Component Pin             | Arduino uno Pin                      |                             
 | :---:                             | :---:                     | :---:                                |
-| Arduino uno                       | Pin                       |                                      | 
+| Ultrasonic Sensor                 | VCC                       | 5V                                   | 
+|                                   | GND                       | GND                                  | 
+|                                   | Trig                      | D9                                   | 
+|                                   | Echo                      | D10                                  | 
+| Buzzer                            | Positive(+)               | D11                                  | 
+|                                   | Negative(-)               | GND                                  | 
+| Vibration Motor                   | Positive(+)               | D12(via transistor)                  | 
+|                                   | Negative(-)               | GND                                  | 
 
 
 # Pin Daigram:
