@@ -48,6 +48,7 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 
 
 # Working Code:
+```
 #define TRIG1_PIN 9
 #define ECHO1_PIN 11
 #define TRIG2_PIN 10
@@ -102,7 +103,7 @@ long getDistance(int trigPin, int echoPin) {
 
   return distance;
 }
-
+```
 # Demo Video:
 https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/3723c474-9262-4238-8649-e6c4af43693e
 
