@@ -104,7 +104,7 @@ long getDistance(int trigPin, int echoPin) {
   return distance;
 }
 ```
-# Demo Video:
+# Testing Video:
 https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/3723c474-9262-4238-8649-e6c4af43693e
 
 
