@@ -39,12 +39,12 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 |                                   | Negative(-)               | GND                                  | 
 
 # Block Diagram:
-![Block Diagram](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/64b8266d-1720-4faf-bd6b-385e265cc2b3)
+![Block Diagram](https://github.com/user-attachments/assets/6df9e47d-7f3e-4cf1-bcc5-7a9057f4e24e)
 
 # Flowchart:
 ![Flowchart](https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/f51e248c-4cb0-439c-9e5a-f0a537ed3e39)
 
-# Pin Daigram:
+# Pinout Daigram:
 ![Pin Diagram](https://github.com/user-attachments/assets/c38152c5-d02d-4dd9-ae41-578411737db2)
 
 
