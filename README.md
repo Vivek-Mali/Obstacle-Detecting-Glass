@@ -110,5 +110,6 @@ https://github.com/Vivek-Mali/Obstacle-Detecting-Glass/assets/173936973/3723c474
 
 # Demo Video:
 
-
+# Conclusion:
+The obstacle-detecting glasses project for visually impaired individuals successfully developed a system using ultrasonic sensors and feedback mechanisms to enhance mobility and safety. The glasses provide real-time alerts, enabling users to navigate various environments confidently. Despite some limitations, the project demonstrates significant potential for improving the quality of life for the visually impaired and serves as a foundation for future technological advancements.
 
