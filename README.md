@@ -27,6 +27,7 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 | Jumper Wire       | few         | --                                   | https://amzn.in/d/0iPO9ODt  |
 
 # Table for Pin Connection:               
+
 | Components                        | Component Pin             | Arduino uno Pin                      |                             
 | :---:                             | :---:                     | :---:                                |
 | Ultrasonic Sensor                 | VCC                       | 5V                                   | 
