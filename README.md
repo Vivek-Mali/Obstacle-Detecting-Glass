@@ -48,6 +48,9 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 # Pinout Daigram:
 ![Pin Diagram](https://github.com/user-attachments/assets/c38152c5-d02d-4dd9-ae41-578411737db2)
 
+# Circuit Diagram:
+![Circuit diagram](https://github.com/user-attachments/assets/cd25b246-43e9-4cd4-88b1-60d3e83f2c75)
+
 
 # Working Code:
 ```
