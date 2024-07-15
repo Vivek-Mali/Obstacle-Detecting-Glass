@@ -36,7 +36,7 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 |                                   | Echo                      | D10                                  | 
 | Buzzer                            | Positive(+)               | D11                                  | 
 |                                   | Negative(-)               | GND                                  | 
-| Vibration Motor                   | Positive(+)               | D12(via transistor)                  | 
+| Vibration Motor                   | Positive(+)               | D12                                  | 
 |                                   | Negative(-)               | GND                                  | 
 
 # Block Diagram:
