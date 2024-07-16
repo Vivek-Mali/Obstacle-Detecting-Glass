@@ -62,7 +62,7 @@ Obstacle-detecting glasses designed for the visually impaired integrate an Ardui
 #define MOTOR_PIN 6
 #define BUZZER_PIN 7
 
-#define DISTANCE_THRESHOLD 300 // Distance threshold in cm
+#define DISTANCE_THRESHOLD 100 // Distance threshold in cm
 
 void setup() {
   Serial.begin(9600);
