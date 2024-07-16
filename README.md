@@ -134,6 +134,7 @@ The obstacle-detecting glasses project for visually impaired individuals success
 I acknowledge all members of ELCIA to give such wonderful opportunity and platform to enhance our knowledge and work on real time projects.
 I would like to thank Mr. Kunal Ghosh and Mrs. Anagh Ghosh for giving us such wonderful opportunity and being thorough out the journey guiding us.
 
-[Presentation.pptx](https://github.com/user-attachments/files/16202994/Presentation.pptx)
+[Presentation](https://github.com/user-attachments/files/16254321/Presentation.pptx)
+
 
 
