@@ -131,6 +131,28 @@ https://github.com/user-attachments/assets/f49c80b3-1ec0-42f0-a0f7-5852f3cab83c
 The obstacle-detecting glasses project for visually impaired individuals successfully developed a system using ultrasonic sensors and feedback mechanisms to enhance mobility and safety. The glasses provide real-time alerts, enabling users to navigate various environments confidently. Despite some limitations, the project demonstrates significant potential for improving the quality of life for the visually impaired and serves as a foundation for future technological advancements.
 
 # Acknowledgement:
+With immense pleasure, we acknowledge a deep sense of gratitude to Dr.S.C.Kamate, Principal, Hirasugar Institute of Technology, Nidasoshi, who has 
+always been an encouraging to all the students in spite of his most busy schedule. 
+We take this opportunity to thank Dr.B.V.Madiggond, HOD of Electrical and 
+Electronics Engineering Department for providing us necessary facilities for 
+carrying out the mini project work. We extend our thanks to Prof.O.B.
+Heddurshetti, mini project Coordinator for his valuable guidance throughout the 
+mini project work. We also express a deep sense of gratitude to our mini project 
+Guide Prof.O.B. Heddurshetti, for the inspiration, encouragement and extension 
+of his full support in achieving this path of success.
+Last but not the least, We would like to thank all teaching and non-teaching 
+staff of our department, our parents and friends for their valuable guidance, 
+suggestions, continuous encouragement and motivation at every step of this 
+project.
+ 
+ 
+ 
+ 
+Ms. Pooja Kutakoli   2HN21EE014
+Ms. Soumya Hosapeti  2HN21EE022
+Mr. Vivek Mali       2HN21EE027
+Mr. Taqdeer Naikwade 2HN22EE405
+
 I acknowledge all members of ELCIA to give such wonderful opportunity and platform to enhance our knowledge and work on real time projects.
 I would like to thank Mr. Kunal Ghosh and Mrs. Anagh Ghosh for giving us such wonderful opportunity and being thorough out the journey guiding us.
 
