@@ -146,7 +146,7 @@ staff of our department, our parents and friends for their valuable guidance,
 suggestions, continuous encouragement and motivation at every step of this 
 project.
 
-I acknowledge all members of ELCIA to give such wonderful opportunity and platform to enhance our knowledge and work on real time projects.
+And also Like to acknowledge all members of ELCIA to give such wonderful opportunity and platform to enhance our knowledge and work on real time projects.
 I would like to thank Mr. Kunal Ghosh and Mrs. Anagh Ghosh for giving us such wonderful opportunity and being thorough out the journey guiding us.
 
 [Presentation](https://github.com/user-attachments/files/16254321/Presentation.pptx)
